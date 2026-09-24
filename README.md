@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ==================== HEADER BANNER ==================== -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,35,42&height=200&section=header&text=Nguyễn%20Hoàng%20Sơn&fontSize=42&fontAlignY=38&animation=twinkling&desc=Backend%20Engineer%20%7C%20DevSecOps%20%7C%20AI%20Integration&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="60%" valign="top">
       <ul>
         <li>🎓 <b>Education:</b> Sinh viên năm 4 ngành CNPM - <b>ĐH Điện lực</b> (GPA: <b>3.86 / 4.0</b>)</li>
         <li>💼 <b>Current Role:</b> Backend / Full-stack Developer (Java Spring Boot, Microservices, ReactJS)</li>
@@ -37,8 +37,8 @@
         <li>📫 <b>Direct Contact:</b> <a href="mailto:nguyenhoangson2004@gmail.com">nguyenhoangson2004@gmail.com</a></li>
       </ul>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745e2-7d63-4814-b830-4e70241bcb99.gif" width="280" alt="Developer Coding Animation" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
@@ -116,16 +116,21 @@
 
 <div align="center">
 
-  <!-- Interactive Activity Wave Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=son01012004&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="son01012004 Activity Wave Graph" />
-
-  <br/><br/>
-
-  <!-- 2-Column Grid: Stats & Top Languages -->
+  <!-- Interactive Activity Details & Wave Curve -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=son01012004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="son01012004 Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=son01012004&theme=tokyonight" width="100%" alt="son01012004 Contribution Graph & Profile Details" />
+  </p>
+
+  <!-- 2-Column Grid: Stats & Top Languages by Commit -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=son01012004&theme=tokyonight" height="190" alt="son01012004 Detailed Stats" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=son01012004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="son01012004 Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=son01012004&theme=tokyonight" height="190" alt="son01012004 Top Languages by Commit" />
+  </p>
+
+  <!-- Streak Stats Card -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=son01012004&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" width="95%" alt="son01012004 Streak Stats" />
   </p>
 
 </div>
@@ -157,6 +162,7 @@
   </a>
 
 </div>
+
 
 
 
